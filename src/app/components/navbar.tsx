@@ -6,7 +6,7 @@ export default function NavigationBar(){
                     <li>Home</li>
                     <li>About</li>
                     <li>Source</li>
-                    <li>Miaw</li>
+                    <li>AWUU</li>
                 </ul>
             </nav>
         </main>
