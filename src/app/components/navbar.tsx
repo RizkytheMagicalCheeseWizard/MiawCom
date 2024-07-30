@@ -1,13 +1,19 @@
-export default function NavigationBar(){
+export default function NavBar(){
     return (
         <main>
-            <nav>
-                <ul>
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>Source</li>
-                    <li>AWUU</li>
-                </ul>
+            <nav className="">
+                <div className="text-left">
+                    <a href="#">Miaw</a>
+                    <a href="#">Miaw</a>
+                    <a href="#">Miaw</a>
+                </div>
+                <div className="text-center">
+                    <a href="#">Miaw</a>
+                </div>
+                <div className="text-right">
+                    <input type="search" name="search" id="search" placeholder="search"/>
+                </div>
+                
             </nav>
         </main>
     );

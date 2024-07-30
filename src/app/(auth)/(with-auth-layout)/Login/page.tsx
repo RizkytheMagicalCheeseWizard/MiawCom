@@ -10,7 +10,7 @@ export default function Login(){
                     <form action="">
                         <div className="">
                             <div className="p-3 text-center">
-                                <input type="text" placeholder="Username" className="p-2 rounded-md text-black" />    
+                                <input type="text" placeholder="Username" className="p-2 rounded-md text-black"/>    
                             </div>    
                             <div className="pt-3 text-center">
                                 <input type="password" placeholder="Password" className="p-2 rounded-md text-black"/>

@@ -1,8 +1,8 @@
-import NavigationBar from "./components/navbar";
+import NavBar from "./components/navbar";
 export default function Home(){
     return (
         <main>
-            <NavigationBar/>
+            <NavBar/>
             <h1>miaw</h1>
         </main>
     );
