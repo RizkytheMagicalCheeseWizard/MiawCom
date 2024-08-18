@@ -4,7 +4,17 @@ export default function Home(){
     return (
         <main>
             <NavBar/>
-            <h1>miaw</h1>
+            <div className="bg-gray-900">
+                <div>
+                    <div>
+
+                    </div>
+                </div>
+                <div>
+
+                </div>
+                
+            </div>
             <Footer/>
         </main>
     );
